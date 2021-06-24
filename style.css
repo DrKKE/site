@@ -12,7 +12,7 @@ body {background-image: url(img/28-68.jpg);background-size: 100%;
 .img3 {transition: 3s all;float: left; padding: 15px; width: 3%; border-radius: 150px; }
 .img4 {transition: 3s all;float: left; padding: 15px; width: 3%; border-radius: 150px; }
 .img5 {transition: 3s all;float: left; padding: 15px;  width: 3%; border-radius: 150px;}
-.img6 {transition: 3s all;float: left; padding: 15px; width: 2%; border-radius: 150px;}
+.img6 {transition: 3s all;float: left; padding: 15px; width: 1.2%; border-radius: 150px;}
 
 .img1:hover { transform: rotate(360deg); width: 15%; opacity: 1;}
 .img2:hover { transform: rotate(360deg); width: 15%; opacity: 1}
